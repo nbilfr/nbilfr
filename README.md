@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## 📋 Profile
 🔭 I’m currently working on Growtopia Project!
  <br>
-🌱 I’m currently learning Reverse Engineering
+🌱 I’m currently learning Reverse Engineering, C++
   
 ## 💬 Contact Me
 Discord : Pit0#0939
