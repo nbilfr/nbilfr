@@ -1,4 +1,4 @@
-### Hi there 👋
+### <i>HI THERE<i> 👋
 
 <!--
 **nbilfr/nbilfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" height="200px" width="500px">
+
+## 📋 Profile
+🔭 I’m currently working on Growtopia Project!
+ <br>
+🌱 I’m currently learning Reverse Engineering
+  
+## 💬 Contact Me
+Discord : Pit0#0939
+  
