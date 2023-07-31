@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" height="200px" width="500px">
 
 ## 📋 Profile
-🌱 Hi, my name is Nabil Faize R. I'm 16 years old and currently in 11th grade at a vocational high school.
+🌱 Hi, my name is Nabil Faize R. I'm 16 years old and currently in 11th grade at SMK Boarding School!
   
 ## 💬 Contact Me
 Discord : Pit0#0939
