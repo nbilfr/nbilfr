@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 🌱 Hi, my name is Nabil Faize R. I'm 16 years old and currently in 11th grade at SMK Boarding School!
   
 ## 💬 Contact Me
-Discord : Pit0#0939
+Discord : UnBrok3n_
   
